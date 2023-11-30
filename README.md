@@ -2,15 +2,13 @@
 # <p align="center" style="margin-top: 0px;"> ✨TheLook E-commerce ✨
 
 <p align="center" style="margin-bottom: 0px !important;">
-<img src="https://github.com/Chisomnwa/TheLook_Ecommerce_Analysis/blob/main/Images/TheLook_Photo5.jpg" width="540" height="540">
+<img src=""C:\Users\prasa\Downloads\TheLook_Photo5.jpg"" width="540" height="540">
 
 ---
 ## 🧾 Table of Contents
 - [Overview](#overview)
 - [Available Data](#available-data)
 - [Business Case Study Questions and Answers](#business-case-study-questions-and-answers)
-- [Medium Article](#medium-article)
-
 
 ## Overview
 TheLook is a fictitious e-commerce clothing site developed by the Looker team.
