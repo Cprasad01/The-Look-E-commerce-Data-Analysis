@@ -2,7 +2,7 @@
 # <p align="center" style="margin-top: 0px;"> ✨TheLook E-commerce ✨
 
 <p align="center" style="margin-bottom: 0px !important;">
-<img src=""C:\Users\prasa\Downloads\TheLook_Photo5.jpg"" width="540" height="540">
+<img src=""https://github.com/Cprasad01/The-Look-E-commerce-Data-Analysis/blob/main/TheLook_Photo5.jpg"" width="540" height="540">
 
 ---
 ## 🧾 Table of Contents
